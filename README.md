@@ -1,160 +1,39 @@
-<h4 align="right"> 
-<span href=".README.md">English</span> 
-<a href="http://www.pakeplus.com/" 
-style="margin: 0 10px;" >简体中文</a> 
-<a href="https://github.com/Sjj1024/PakePlus/discussions/108">日本语</a>
-</h4>  
-<p align="center">
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/pakeplus.png" width=138/>
-</p>  
-<h1 align="center">PakePlus-iOS</h1>  
-<p align="center"><strong>Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes</strong></p>
+亲爱的玩家您好！
+欢迎使用鹿村服务器（非鹿村）启动器，接下来是使用文档和注意事项等
+**注意事项**
+-鹿村服务器是小鹿粉丝开发的精神续作，非官方服务器。
+-我们不会以任何形式进行收费，包括但不限于会员、充值。
+-您可以对鹿村进行赞助，但我们不建议。赞助后，***您与普通玩家无任何区别！***
+-对于服务器基础及进阶功能，如称号系统等，我们均提供免费服务。
+-鹿村服务器拒绝广告、色情或烂梗，请自觉遵守。
+-服务器金币系统，您可以通过游戏内玩家交易获取，也可以通过鹿村服务器相关活动。***请注意***，请不要进行任何形式的金币交易，金币不支持通过人民币等财产购买，请区分现实与虚拟！
+-鹿村服务器拒绝任何可能对您的财产造成损失的行为，绝不宣传其他服务器，绝不引导购买任何虚拟物品。但我们可能会通过广告等形式，对麦块联机、土豆互联等平台进行推广，这有助于服务器回血。若您认为此行为不合规、不符合公益服务器需要，我们可以协商停止。
+**使用文档**
+本启动器很简单！您只需要添加您的离线或正版账号，启动就可以啦
+1.点击左上角 添加您的账号（按需选择正版、离线或第三方）
+2.确定右下角为1.21.11（若不是，请点击箭头切换 若无请看Q&A 1）
+3.在上述基础上，点击启动游戏
+4.待游戏启动后 点击多人游戏
+5.点击LCS鹿村（若无请看Q&A 2）
+6.点击加入服务器
+7.创建账户（或输入密码）
+8.开始游玩
 
-<p align="center">
-    <a href="https://github.com/Sjj1024/PakePlus/releases"><img src="https://img.shields.io/github/v/release/Sjj1024/PakePlus?style=flat-square&logo=github" alt="Release"></a>
-    <a href="https://github.com/Sjj1024/PakePlus/stargazers"><img src="https://img.shields.io/github/stars/Sjj1024/PakePlus?style=flat-square&logo=github" alt="Stars"></a>
-    <a href="https://github.com/Sjj1024/PakePlus/stargazers"><img src="https://img.shields.io/github/forks/Sjj1024/PakePlus?style=flat-square&logo=github" alt="Forks"></a>
-    <a href="https://github.com/Sjj1024/PakePlus/actions/workflows/build.yml"><img src="https://img.shields.io/github/actions/workflow/status/Sjj1024/PakePlus/build.yml?style=flat-square&logo=github" alt="Build"></a>
-    <a href="https://github.com/Sjj1024/PakePlus/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Sjj1024/PakePlus?style=flat-square&logo=github" alt="License"></a>
-    <a href="https://hellogithub.com/repository/d148f8fac78b45fe9b94c82757c3f86b" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=d148f8fac78b45fe9b94c82757c3f86b&claim_uid=LXfeQOxRDEmSUGC&theme=small" alt="Featured｜HelloGitHub"></a>
-</p>
-
-<div align="left">PakePlus supports Mac, Windows, Linux, and Android & iOS. There’s no need to install complex dependencies locally— all you need is a Github Token. Plus, PakePlus is only about 10MB in size. For the latest version, please see the <a href="[#popular-packages](https://github.com/Sjj1024/PakePlus/releases)">release page</a>. or visit: <a href="https://pakeplus.pages.dev" target="_blank">PakePlus Web</a>. Check the README for information on <a href="#popular-packages">popular packages</a> and <a href="#development">custom development</a>. Feel free to share your suggestions in the <a href="https://github.com/Sjj1024/PakePlus/discussions">discussion area</a>.</div>
-
-https://github.com/user-attachments/assets/b88bf541-0b26-4020-9eec-da79e1734fc9
-
-<h1 align="center">Sponsors</h1>
-
-<p>
-PakePlus is an MIT-licensed open source project with its ongoing development made possible entirely by the support of these awesome backers. If you'd like to join them, please consider sponsoring PakePlus's development.
-</p>
-
-<table style="border-collapse: collapse; width: 100%; border: 1px solid #ddd;">
-    <tr>
-        <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-            <img style="border-radius: 1.5rem" src="https://files.pakeplus.com/finevoice.png" width="100"/>
-            <h3 style="margin: 0"><a href="https://finevoice.ai/" target="_blank">FineVoice</a></h3>
-            <p style="margin: 0">Create Every Voice You Imagine</p>
-        </td>
-        <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-            <img style="border-radius: 1.5rem" src="https://avatars.githubusercontent.com/u/54536011?s=200&v=4" width="100"/>
-            <h3 style="margin: 0"><a href="https://tauri.app/" target="_blank">Tauri</a></h3>
-            <p style="margin: 0">Create cross-platform applications</p>
-        </td>
-        <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-            <img style="border-radius: 1.5rem" src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" width="100"/>
-            <h3 style="margin: 0"><a href="https://cursor.com/agents" target="_blank">Cursor</a></h3>
-            <p style="margin: 0">Cursor is the best way to code with AI.</p>
-        </td>
-        <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-            <img style="border-radius: 1.5rem" src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" width="100"/>
-            <h3 style="margin: 0"><a href="https://www.jetbrains.com/idea/" target="_blank">JetBrains</a></h3>
-            <p style="margin: 0">The Leading IDE for Professional Development</p>
-        </td>
-    </tr>
-</table>
-
-## Features
-
--   🎐 Approximately 20 times smaller than Electron (less than 5MB!) and 10 times faster.
--   🚀 Built with Rust Tauri, PakePlus is lighter and faster than JavaScript-based frameworks.
--   📦 Comes with rich built-in features — supports shortcuts, immersive windows, and minimalist customization.
--   👻 PakePlus is a minimalist tool that replaces traditional packaging with Tauri for cross-platform desktop apps.
--   📲 Uses native frameworks to package Android and iOS apps — smaller and faster than Tauri2.
--   🤗 Easy to use — just one GitHub Token is all you need to get a desktop app.
--   🌹 No need to install complex dependencies locally — use GitHub Actions for cloud-based automatic packaging.
--   🧑‍🤝‍🧑 Internationalization support — automatically follows your system language.
--   💡 Supports custom JavaScript injection — write your own JS to inject into the page.
--   🎨 Beautiful and user-friendly UI — better experience for beginners, supports Chinese names for packaging.
--   📡 Usable directly via the web, but the client offers stronger functionality and is recommended.
--   🔐 Data security — your token is stored only locally, and your project stays safely in your own Git repo.
--   🍀 Supports static file packaging — drop in a compiled dist folder or index.html from Vue/React to create a client app.
--   🐞 Debug mode supported — find and eliminate bugs during preview or release.
--   💬 If you run into any issues, feel free to join our technical community for help.
-
-## Use Cases
-
--   Have a website? Instantly turn it into a app and elevate its appearance.
--   Have a Vue/React project and don’t want to buy a server? Package it as a desktop app.
--   Want your Cocos game to run as a cross-platform client? No problem.
--   Need to build your Unity project as a cross-platform client? Also no problem.
--   Hide your website address from casual sharing or bots scraping your content.
--   For internal company platforms — restrict access to your site via a dedicated client only.
--   Turn any website into your custom client — inject JS for automation and custom features.
--   Annoyed by website ads? Hide them with powerful JS.
--   Want to use Tauri2 but the environment is too heavy? Use PakePlus instead!
-
-## Getting Started
-
-1. Download the app from the release page：https://github.com/Sjj1024/PakePlus/releases,  
-   double-click to install, and run the app. or visit web: <a href="https://pakeplus.pages.dev" target="_blank">PakePlus Web</a>
-
-2. Configure a Github Token, create a new project, and set up the configurations. get token guide:  
-   <a href="https://sjj1024.github.io/PakePlus/index_en.html">English</a> <a href="https://pakeplus.com/guide/token.html" style="margin: 0 50px;">简体中文</a><a href="https://sjj1024.github.io/PakePlus/index_ja.html">日本语</a>
-
-```
-Explanation of Github Token permissions:
-1. For the beta version, token permissions required:
-All repositories: Fork an original template repository
-Actions: Manage GitHub actions
-Administration: Fork and manage files in the repository
-Contents: Add, delete, modify, and find repository contents
-Issues: Submit issues to PakePlus
-
-1. For the classic version, token permissions required:
-repo: Fork and manage template code
-workflow: Compile and release your software
-```
-
-1. You can preview the app in a new window and click the publish button to package the app.
-2. You can download the app from the release page.
-
-## FAQ
-
-1. Mac users may see an “App is damaged” warning on installation. click cancel and Run the following command, then reopen the app:（This is because the application requires an official signature to avoid the prompt of "The application is damaged" popping up after installation. However, the cost of the official signature is $99 per year... Therefore, it is necessary to manually bypass the signature to use it normally）
-
-```sh
-sudo xattr -r -d com.apple.quarantine /Applications/PakePlus.app
-```
-
-1. When you package the app, Mac users may see an “App is damaged” warning on installation. click cancel and Run the following command, then reopen the app:
-
-```sh
-sudo xattr -r -d com.apple.quarantine /Applications/YourAppName.app
-```
-
-3. If you encounter any issues while using the program, please download the latest version, as versions developed before 2025 were based on Tauri v1.0. In 2025, Tauri was upgraded to v2.0. If the latest version still has issues, please submit an issue with detailed information so that we can update and resolve it more quickly.
-
-4. After you add the GitHub Token, PakePlus will fork a PakePlus repository into your own repository. All your future projects will rely on this repository for creation and compilation, so please do not delete your PakePlus repository.
-
-## Developing PakePlus
-
-If you want to develop PakePlus locally, ensure your environment is prepared beforehand. Make sure Rust `>=1.63` and Node `>=16` (e.g., `16.18.1`) are installed on your computer. For installation guidance, please refer to the [Tauri Documentation](https://tauri.app/v1/guides/getting-started/prerequisites).
-
-If you’re unfamiliar with these, it’s best to try the one-click packaging tool above.
-
-```sh
-# Install dependencies
-pnpm i
-
-# Local development [Right-click to open debug mode.]
-pnpm run dev
-
-# Package the app
-pnpm run build
-
-```
-
-## Support
-
-1. wechat and group，my wechat is lanxingme，welcome to join the wechat group.
- <p align="center" style="display:flex; justify-content: flex-start;" >
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/mywx.png" width=200/>
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/wxcode.png" width=200/>
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/qq.jpg" width=200/>
- </p>
-
-2. 💖If PakePlus has brought joy to your life, feel free to support it.
- <p align="center" style="display:flex; justify-content: flex-start;">
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/sponsor.webp" width=620/>
- </p>
+**Q&A**
+1. 
+Q：为啥我找不到1.21.11
+A：请您自己下载实例 1.21.11 建议寻找相关资料或群内询问
+2.
+Q：我找不到LCS鹿村
+A：点击添加服务器 只填写地址为`lucunserver.xyz´，完成接下来的操作
+3.
+Q：咋加光影啊
+A：鹿村服务器启动器内置整合包不支持光影及模组，请您自己下载实例 1.21.11 OptiFine 或 1.21.11 fabric+纳 建议寻找相关资料或群内询问 然后再次启动游戏，在光影选项里，将下载到的光影拖进窗口（不要解压）
+Q：咋加模组啊
+A：鹿村服务器启动器内置整合包不支持光影及模组，请您自己下载实例 1.21.11 forge 或 1.21.11 fabric 建议寻找相关资料或群内询问 在启动器里下载模组，，然后再启动
+Q：怎么创建领地
+A：在您有足够金钱时，使用木锄头左键A点 然后右键B点（AB两点为长方体的两个对顶点），使用`/res creat 领地名´ 小提示：使用`/res´查看帮助
+Q：怎么赚钱
+A：在游戏内与玩家或商店进行交易（物品交易）、在主城售卖商品、积极参加活动等
+Q：咋回主城
+A：指令/spawn
